@@ -1,7 +1,7 @@
 .hero {
   max-width: 1600px;
   height: 400px;
-  padding: 200px 0;
+  padding: 118px 0;
   margin: auto;
 
   background-color: $color-hero-background;
@@ -29,7 +29,7 @@
 
   @media screen and (min-width: 768px) {
     height: 600px;
-    padding: 118px 0;
+    padding: 200px 0;
 
     background-image: linear-gradient($color-hero-overlay, $color-hero-overlay),
       url(../images/index/hero-1600.jpg);
