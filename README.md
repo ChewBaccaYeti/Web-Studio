@@ -1,1 +1,1 @@
-# goit-markup-hw-08
+This project I create by using HTML/CSS and SCSS with BEM methodology
